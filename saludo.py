@@ -1,2 +1,2 @@
-nombre = input("Ingresa tu nombre: ")
+nombre = input("Por favor, ingresa tu nombre: ")
 print("Hola, " + nombre + "!")
